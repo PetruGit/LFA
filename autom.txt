@@ -1,0 +1,21 @@
+5
+mamut
+delfin
+girafa
+ac
+copac
+5
+start
+state1
+state2
+state3
+state4
+2
+state3
+state4
+5
+start state3 mamut
+start state1 delfin
+state1 state1 ac
+state1 state2 girafa
+state2 state4 copac
